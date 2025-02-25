@@ -1,1 +1,3 @@
-this is a .txt file
+this is a .txt file and inside it has text
+
+the lab1.docx file contains the task steps
